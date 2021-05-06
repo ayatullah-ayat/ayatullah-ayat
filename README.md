@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ayatullah-ayat
-- 👀 I’m interested in web and ios
+- 👀 I’m interested in web and android
 - 🌱 I’m currently learning php & laravel
 - 💞️ I’m looking to collaborate on laravel project
 - 📫 How to reach me linkedin.com/in/ayatullah-khamini-998084a5
