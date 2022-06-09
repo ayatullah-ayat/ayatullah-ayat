@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ayatullah-ayat
 - 👀 I’m interested in web and android
-- 🌱 I’m currently learning php & laravel, js & react.
-- 💞️ I’m looking to collaborate on laravel and react project.
+- 🌱 I’m currently working with php & laravel, js, react, node, next.js.
+- 💞️ I’m looking to collaborate on laravel or MERN project.
 - 📫 How to reach me linkedin.com/in/ayatullah-khamini-998084a5
 
 <!---
