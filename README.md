@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ayatullah-ayat
-- 👀 I’m interested in web and android
+- 👀 I’m interested in software engineering
 - 🌱 I’m currently working with php & laravel, js, react.
-- 💞️ I’m looking to collaborate on laravel, React/Vue project.
+- 💞️ I’m looking to collaborate on node Js, React/Vue project.
 - 📫 How to reach me linkedin.com/in/ayatullah-khamini-998084a5
 
 <!---
